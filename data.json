@@ -1,0 +1,3306 @@
+[
+  {
+    "product": "string",
+    "profit": 0.0,
+    "competition_score": 0.0,
+    "demand": 0,
+    "score": 20.0,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "string",
+    "profit": 0.0,
+    "competition_score": 0.0,
+    "demand": 0,
+    "score": 20.0,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "string",
+    "profit": 0.0,
+    "competition_score": 0.0,
+    "demand": 0,
+    "score": 20.0,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "string",
+    "profit": 100.0,
+    "competition_score": -29.0,
+    "demand": 100,
+    "score": 89.0,
+    "decision": "SELL \ud83d\ude80"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Premium Slim Fit T-Shirts ",
+    "profit": 8.92,
+    "competition_score": 66.8,
+    "demand": 30,
+    "score": 9.89,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Cotton Jacket",
+    "profit": 22.396,
+    "competition_score": 115.0,
+    "demand": 30,
+    "score": 11.24,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Mens Casual Slim Fit",
+    "profit": 6.396000000000001,
+    "competition_score": 101.0,
+    "demand": 30,
+    "score": 9.64,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "profit": 278.0,
+    "competition_score": 95.0,
+    "demand": 30,
+    "score": 36.8,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "profit": 43.980000000000004,
+    "competition_score": 39.0,
+    "demand": 30,
+    "score": 13.4,
+    "decision": "REJECT \u274c"
+  }
+]
