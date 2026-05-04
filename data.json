@@ -3302,5 +3302,173 @@
     "demand": 30,
     "score": 13.4,
     "decision": "REJECT \u274c"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 1.0,
+    "demand": 50,
+    "score": 54.0,
+    "decision": "TEST \u26a0\ufe0f"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": -474.0,
+    "demand": 1000,
+    "score": 544.0,
+    "decision": "SELL \ud83d\ude80"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": -465.0,
+    "demand": 1000,
+    "score": 535.0,
+    "decision": "SELL \ud83d\ude80"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": -465.0,
+    "demand": 1000,
+    "score": 535.0,
+    "decision": "SELL \ud83d\ude80"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": -475.0,
+    "demand": 1000,
+    "score": 545.0,
+    "decision": "SELL \ud83d\ude80"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": -484.0,
+    "demand": 1000,
+    "score": 554.0,
+    "decision": "SELL \ud83d\ude80"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 11.0,
+    "demand": 10,
+    "score": 32.0,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 20.0,
+    "demand": 10,
+    "score": 23.0,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": 30.0,
+    "demand": 10,
+    "score": 23.0,
+    "decision": "REJECT \u274c"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 200.0,
+    "competition_score": -15.0,
+    "demand": 100,
+    "score": 85.0,
+    "decision": "SELL \ud83d\ude80"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 100.0,
+    "competition_score": -15.0,
+    "demand": 100,
+    "score": 75.0,
+    "decision": "SELL \ud83d\ude80"
+  },
+  {
+    "product": "T-shirt",
+    "profit": 50.0,
+    "competition_score": -15.0,
+    "demand": 100,
+    "score": 70.0,
+    "decision": "TEST \u26a0\ufe0f"
   }
 ]
